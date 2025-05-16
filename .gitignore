@@ -1,0 +1,26 @@
+# Environnement virtuel
+venv/
+env/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Fichiers de logs
+*.log
+
+# Variables d'environnement
+.env
+
+# VSCode / PyCharm / autres IDEs
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers de tests temporaires
+*.pytest_cache/
+*.mypy_cache/
